@@ -11,7 +11,7 @@ Ambos rodaram na mesma máquina (Mac com processador Apple Silicon, arquitetura 
 ```
 Núcleos disponíveis: 8
 Total pages: 237
-Quantidade de theds: 32
+Quantidade de theads: 32
 Downloaded 237 links in 1.7422409057617188 seconds
 ```
 
@@ -19,7 +19,7 @@ Downloaded 237 links in 1.7422409057617188 seconds
 ```
 Núcleos disponíveis: 8
 Total pages: 237
-Quantidade de theds: 32
+Quantidade de theads: 32
 Downloaded 237 links in 0.474941875 seconds
 ```
 
