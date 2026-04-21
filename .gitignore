@@ -67,3 +67,10 @@ Icon
 .vscode/
 .idea/
 *.swp
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
