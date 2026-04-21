@@ -1,7 +1,7 @@
 # Comparativo de Performance: Python vs Go (Web Scraping / Fetching)
 
 ## O Experimento
-Comparamos o desempenho de dois scripts elaborados para o mesmo fim: baixar 237 páginas HTML de países vindas da Wikipedia utilizando concorrência simultânea paralela limitada a 32 "trabalhadores" (threads/goroutines).
+Realizamos um benchmark de desempenho entre dois scripts desenvolvidos para o download de 237 páginas da Wikipedia. Ambos utilizaram processamento concorrente limitado a 32 workers (threads/goroutines) para garantir uma comparação equitativa.
 
 Ambos rodaram na mesma máquina (Mac com processador Apple Silicon, arquitetura arm64) e com acesso à mesma rede.
 
