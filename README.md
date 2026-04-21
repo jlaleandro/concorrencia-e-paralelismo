@@ -12,7 +12,7 @@ Ambos rodaram na mesma máquina base (Processador Apple Silicon / Mac M1 de arqu
 ```text
 Núcleos disponíveis: 8
 Total pages: 237
-Quantidade de theads: 32
+Quantidade de threads: 32
 Downloaded 237 links in 0.474941875 seconds
 ```
 
@@ -20,7 +20,7 @@ Downloaded 237 links in 0.474941875 seconds
 ```text
 Núcleos disponíveis: 8
 Total pages: 237
-Quantidade de theads: 32
+Quantidade de threads: 32
 Downloaded 237 links in 1.7422409057617188 seconds
 ```
 
